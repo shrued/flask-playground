@@ -1,6 +1,8 @@
 # flask-playground
 
-$ virtualenv venv
-$ source venv/bin/activate
-(venv) $ pip3 install flask
-(venv) $ python app.py
+```
+virtualenv venv
+source venv/bin/activate
+pip3 install flask
+python app.py
+```
